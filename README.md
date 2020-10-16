@@ -5,7 +5,7 @@
 Play Tic. Tac. Toe. ;)
 
 #### View Live Demo
-  <pre><center><a href="https://bhargav252000.github.io/tic_tac_toe/"><b>bhargav252000.github.io/tic_tac_toe</b></a></center></pre>
+  <pre><center><a href="https://bhargav-gohil.is-a.dev/tic_tac_toe/"><b>bhargav-gohil.is-a.dev/tic_tac_toe/</b></a></center></pre>
 
 
 ##### Made with ♥ by <a href="https://github.com/Bhargav252000">Bhargav252000</a>
